@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sithum.
-- 👀 I’m interested in Tech thgings and Music.
+- 👀 I’m interested in Techie Stuff and Music.
 - 🌱 I’m currently learning OOP with Java. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

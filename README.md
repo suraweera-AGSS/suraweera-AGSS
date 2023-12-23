@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development | OOP | Java**
 
-- 📫 How to reach me **suraweera01work@gmail.com**
+- 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
 - ⚡ Call me as **THRIPLES**
 

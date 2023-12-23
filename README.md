@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📝 I regularly write articles on [https://sithumsuraweera.blogspot.com/](https://sithumsuraweera.blogspot.com/)
+- 📝 I regularly write articles on https://sithumsuraweera.blogspot.com/
 
 - 💬 Ask me about **Web Development | OOP | Java**
 

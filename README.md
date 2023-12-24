@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sithum Suraweera</h1>
-<h3 align="center">An undergraduate student at SLIIT University</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Web+Developer;I'm+a+Freelancer;I'm+a+Entrepreneur&font=Fira%50Code&center=true&width=380&height=50">
+</p>
+
+<h3 align="center">A passionate IT student at SLIIT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
 <br>

@@ -28,6 +28,8 @@
 <br>
 
 ---
+
+
 <p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -70,6 +72,9 @@
   </td>
 </tr>
 </table>
+
+<h3 align="center">Holopin Badges:</h3>
+[![An image of @suraweeraagss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suraweeraagss)](https://holopin.io/@suraweeraagss)
 
 ---
 <br>

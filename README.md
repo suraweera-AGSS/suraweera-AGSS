@@ -28,8 +28,7 @@
 <br>
 
 ---
-
-<p align="center" ><img  src = "https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width = 400px></p>
+<p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <br>
@@ -51,7 +50,8 @@
 <br>
 
 ---
-<p align="center" ><img  src = "" width = 400px></p>
+
+<p align="center" ><img  src = "https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width = 300px></p>
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">

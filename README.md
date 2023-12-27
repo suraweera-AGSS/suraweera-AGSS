@@ -7,15 +7,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
 <br>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN | Kotlin**
 
-- 📝 I regularly write articles on https://sithumsuraweera.blogspot.com/
+- 📝 I regularly write articles on https://medium.com/@sithumsuraweera
 
 - 💬 Ask me about **Web Development | OOP | Java**
 
 - 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
-- ⚡ Call me as **THRIPLES**
+- 🤪 Fun fact **I am friendly**
 
 <h3 align="center">Connect with me:</h3>
 <br>

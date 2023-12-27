@@ -60,13 +60,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=dark&show_icons=true&count_private=true" />
+  ![](https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false" /> 
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false)
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
   </td>
 </tr>
@@ -76,4 +76,5 @@
 
 <br>
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/sithum"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sithum" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/sithum"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sithum" /></a> <a href="https://https://patreon.com/SithumSuraweera"> <img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" width="210" alt="sithum" /></a></p>
+<br><br>

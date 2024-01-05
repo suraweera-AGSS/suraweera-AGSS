@@ -26,7 +26,6 @@
 <a href="https://stackoverflow.com/users/20330216/sithum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sithum suraweera" height="50" width="50" /></a>
 </p>
 <br>
-
 ---
 
 <p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p>

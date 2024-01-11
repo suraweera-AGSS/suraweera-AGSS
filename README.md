@@ -50,7 +50,7 @@
 
 ---
 
-<p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966.gif" width = 300px></p>
+<p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/_465b3615-c34a-4da6-b78c-c670d4c7d163.jpg" width = 300px></p>
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">

@@ -18,6 +18,8 @@
 - 🤪 Fun fact **I am friendly**
 
 - 🙋‍♂️ Call me as **THRIPLES**
+  
+- 👨‍💻 Founder of **CodeScorpion**
 
 <h3 align="center">Connect with me:</h3>
 <br>

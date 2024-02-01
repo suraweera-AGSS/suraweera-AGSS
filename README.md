@@ -19,7 +19,7 @@
 
 - 🙋‍♂️ Call me as **THRIPLES**
   
-- 👨‍💻 Founder of **CodeScorpion**
+- 👨‍💻 Founder of **CodeScorpion** https://www.youtube.com/@CodeScorpions
 
 <h3 align="center">Connect with me:</h3>
 <br>

@@ -32,7 +32,6 @@
 <br>
 
 <p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p>
-
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p align="center"> 

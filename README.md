@@ -23,6 +23,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <br>
+
 <p align="center">
 <a href="https://linkedin.com/in/sithum suraweera" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sithum_surawerra" height="50" width="50" /></a>
 <a href="https://instagram.com/sithum_suraweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithum_suraweera" height="50" width="50" /></a>

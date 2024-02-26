@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate IT student at SLIIT</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /></p>
 <br>
 
 - 🌱 I’m currently learning **MERN Stack | Java | Kotlin**
@@ -50,7 +50,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 <br>
-
 ---
 
 <p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/_465b3615-c34a-4da6-b78c-c670d4c7d163.jpg" width = 300px></p>

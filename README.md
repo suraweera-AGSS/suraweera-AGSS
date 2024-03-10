@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Web+Developer;I'm+a+UI/UX Designer&font=Fira%50Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Web+Developer;I'm+a+UI/UX+Designer&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
 <h3 align="center">A passionate IT student at SLIIT</h3>

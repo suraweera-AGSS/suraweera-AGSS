@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Web+Developer;I'm+a+UI/UX+Designer&font=Fira%50Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Full+Stack+Developer;I'm+a+UI/UX+Designer;I'm+a+Mobile+Application+Developer&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
 <h3 align="center">A passionate IT student at SLIIT</h3>
@@ -61,15 +61,23 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-  
-  <br></br>
-  
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false)
+<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</br>
+  <!--
    ![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false)
+
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+   -->
+### 🔝 Top Contributed Repository
+![](https://github-contributor-stats.vercel.app/api?username=suraweera-AGSS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </td>
 <td width="50%" align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
   </td>
 </tr>

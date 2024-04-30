@@ -72,6 +72,38 @@
    ![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false)
 
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+   =================================================================================================================================================================================================================
+<br/>
+<p align="left">
+  <a href="https://dthiwanka.github.io">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dthiwanka&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dthiwanka&theme=dark&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![DulajThiwanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dthiwanka&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+<hr>
+<p align="left">
+  <a href="https://dthiwanka.github.io">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dthiwanka&layout=compact&theme=dark&hide_border=true" />
+     <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
+    
+   
+  </a>
+</p>
+
+[![@dulajthiwanka's Holopin board](https://holopin.me/dulajthiwanka)](https://holopin.io/@dulajthiwanka)
+<hr/>
+   =================================================================================================================================================================================================================
    -->
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=suraweera-AGSS&limit=5&theme=dark&combine_all_yearly_contributions=true)

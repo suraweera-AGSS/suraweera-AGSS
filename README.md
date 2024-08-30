@@ -7,17 +7,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /></p>
 <br>
 
-- 🌱 I’m currently learning **MERN Stack | Java | Kotlin**
+- 🌱 I’m currently learning **Python | Java | ML**
 
 - 📝 I regularly write articles on https://medium.com/@sithumsuraweera
 
-- 💬 Ask me about **Web Development | OOP | Java**
+- 💬 Ask me about **Web Development | OOP | Data Structures & Algorithms**
 
 - 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
 - 🤪 Fun fact **I am friendly**
 
-- 👨‍💻 Founder of **CodeScorpion** https://www.youtube.com/@CodeScorpions
+- 👨‍💻 Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
 
 <h3 align="center">Connect with me:</h3>
 <br>

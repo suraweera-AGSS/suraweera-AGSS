@@ -30,7 +30,7 @@
 </p>
 <br>
 
-<p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p>
+<!--<p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p> -->
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p align="center"> 
@@ -102,14 +102,14 @@
 [![@dulajthiwanka's Holopin board](https://holopin.me/dulajthiwanka)](https://holopin.io/@dulajthiwanka)
 <hr/>
    =================================================================================================================================================================================================================
-   -->
+
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=suraweera-AGSS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </td>
 </tr>
 </table>
-
+-->
 
 <!--
 <br>
@@ -117,5 +117,4 @@
 <p align="center"><a href="https://www.buymeacoffee.com/sithum"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sithum" /></a> <a href="https://https://patreon.com/SithumSuraweera"> <img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" width="210" alt="sithum" /></a></p>
 <br><br>
 <h3 align="center">Review Me on:</h3>
-<p align="center"><a href="https://www.trustpilot.com/users/6599bf88dd67230012046994"> <img align="center" src="https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/trustpilotlastlogo.jpg" height="40" width="160" alt="sithum" /></a>
--->
+<p align="center"><a href="https://www.trustpilot.com/users/6599bf88dd67230012046994"> <img align="center" src="https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/trustpilotlastlogo.jpg" height="40" width="160" alt="sithum" /></a>-->

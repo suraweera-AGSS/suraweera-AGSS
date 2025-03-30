@@ -55,7 +55,6 @@
 
 <p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/_465b3615-c34a-4da6-b78c-c670d4c7d163.jpg" width = 300px></p>
 
-<h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">

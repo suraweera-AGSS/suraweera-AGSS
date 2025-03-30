@@ -19,6 +19,7 @@
 
 - 👨‍💻 Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
 
+<!--
 <h3 align="center">Connect with me:</h3>
 <br>
 
@@ -28,9 +29,10 @@
 <a href="https://www.youtube.com/c/thriplesmusick" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="thriplesmusick" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/20330216/sithum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sithum suraweera" height="50" width="50" /></a>
 </p>
-<br>
+<br>-->
 
 <!--<p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p> -->
+
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p align="center"> 
@@ -61,8 +63,6 @@
   
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false)
 <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </br>

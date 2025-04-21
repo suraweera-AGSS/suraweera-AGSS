@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /></p>
 <br>
 
-- 🌱 I’m currently learning **Python | Java | ML | SpringBoot | Angular | React**
+- 🌱 I’m currently learning **Python | Java | ML | SpringBoot | Angular | React | Oracle DataBase**
 
 - 📝 I regularly write articles on https://medium.com/@sithumsuraweera
 

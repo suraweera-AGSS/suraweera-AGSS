@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;Welcome+to+my+Github+Profile;My+name+is+Sithum;I'm+a+4th+year+undergraduate;I'm+a+Full+Stack+Developer;&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
+<!--
 <h3 align="center">A passionate IT student</h3>
+-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /></p>
 <br>

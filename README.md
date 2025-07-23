@@ -55,22 +55,26 @@
 </p>
 <br>
 
----
-<a href="https://app.daily.dev/suraweera_agss"><img src="https://api.daily.dev/devcards/v2/KwODOajp2QnGvS8fmF3h7.png?type=default&r=xtr" width="356" alt="Sithum Suraweera's Dev Card"/></a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      #🪪 Daily.dev Stats
+      <a href="https://app.daily.dev/suraweera_agss">
+        <img src="https://api.daily.dev/devcards/v2/KwODOajp2QnGvS8fmF3h7.png?type=default&r=xtr" width="100%" alt="Sithum Suraweera's Dev Card"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      #📊 GitHub Stats
+      <img src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/_465b3615-c34a-4da6-b78c-c670d4c7d163.jpg" width = 300px></p>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</br>
   <!--
+  <p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/_465b3615-c34a-4da6-b78c-c670d4c7d163.jpg" width = 300px></p>
+  
    ![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false)
 
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

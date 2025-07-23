@@ -56,6 +56,7 @@
 <br>
 
 ---
+<a href="https://app.daily.dev/suraweera_agss"><img src="https://api.daily.dev/devcards/v2/KwODOajp2QnGvS8fmF3h7.png?type=default&r=xtr" width="356" alt="Sithum Suraweera's Dev Card"/></a>
 
 <p align="center" ><img src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/main/_465b3615-c34a-4da6-b78c-c670d4c7d163.jpg" width = 300px></p>
 
@@ -69,8 +70,6 @@
 <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </br>
-
-<a href="https://app.daily.dev/suraweera_agss"><img src="https://api.daily.dev/devcards/v2/KwODOajp2QnGvS8fmF3h7.png?type=wide&r=xtr" width="652" alt="Sithum Suraweera's Dev Card"/></a>
   <!--
    ![](https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false)
 

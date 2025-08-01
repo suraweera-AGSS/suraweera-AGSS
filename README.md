@@ -17,11 +17,9 @@
 
 - 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
-- 🤪 Fun fact **I am friendly**
+- 👨‍💻 Co-Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
 
-- 👨‍💻 Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
-
-- ⚡ Current Status - https://sithum-suraweera-vlddkqt.gamma.site/
+- ⚡ Current Status - https://www.zapfolio.in/sithum-chalk
 
 <!--
 <h3 align="center">Connect with me:</h3>

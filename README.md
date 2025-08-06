@@ -158,7 +158,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&count_private=true&show_icons=trueline_height=21&theme=github_dark">
       <br/><br/>
       <a href="https://github.com/suraweera-AGSS">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraweera-AGSS&theme=github_dark&hide_border=true"/>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=github_dark&hide_border=true"/>
       </a>
     </td>
   </tr>

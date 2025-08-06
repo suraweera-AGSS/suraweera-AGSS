@@ -34,7 +34,7 @@
 <br>-->
 
 <!--<p align="center" ><img  src = "https://github.com/suraweera-AGSS/suraweera-AGSS/blob/ee252d1a667969ce57cddb94b67875013fec3394/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" width = 800px></p> -->
-<!--
+
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p align="center"> 
@@ -52,7 +52,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 <br>
--->
+
 <!--
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -145,17 +145,21 @@
 -->
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <h3 align="center">🪪 Daily.dev Stats:</h3>
       <a href="https://app.daily.dev/suraweera_agss">
         <img src="https://api.daily.dev/devcards/v2/KwODOajp2QnGvS8fmF3h7.png?type=default&r=xtr" width="100%" alt="Sithum Suraweera's Dev Card"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="60%" align="center">
       <h3 align="center">📊 GitHub Stats:</h3>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraweera-AGSS&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
       <br/><br/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&count_private=true&show_icons=trueline_height=21&theme=github_dark">
+      <br/><br/>
+      <a href="https://github.com/suraweera-AGSS">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraweera-AGSS&theme=github_dark&hide_border=true"/>
+      </a>
     </td>
   </tr>
 </table>

@@ -20,7 +20,11 @@
 
 - 👨‍💻 Co-Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
 
-- ⚡ Current Status - https://www.zapfolio.in/sithum-chalk
+- ⚡ Current status - https://www.zapfolio.in/sithum-chalk
+
+- 😁 Chill thing - Music is a big part of my life. I love both singing and listening to it 
+
+- 🎧 Listen to my covers - https://www.youtube.com/@ThripleSMusic
 <!--
 <h3 align="center">Connect with me:</h3>
 <br>

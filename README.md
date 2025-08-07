@@ -305,7 +305,7 @@
   </tr>
 </table>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="30px"> Connect Me Via
 
 <p align="center">
 <a href="https://linkedin.com/in/sithum suraweera" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sithum_surawerra" height="25" width="25" /></a>

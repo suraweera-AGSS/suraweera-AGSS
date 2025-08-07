@@ -5,8 +5,10 @@
 <!--
 <h3 align="center">A passionate IT student</h3>
 -->
-
-<img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss"/> ![GitHub followers](https://img.shields.io/github/followers/suraweera-AGSS?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/suraweera-AGSS?style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss"/>
+  <img src="https://img.shields.io/github/followers/suraweera-agss?label=Followers&style=social" alt="GitHub Followers"/>
+</p> 
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></img> About Me
 

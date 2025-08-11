@@ -163,13 +163,9 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="48" height="48" alt="Vue.js" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
       <br>React
-    </td>
+    </td
     <td align="center" width="96">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="48" height="48" alt="CSS" />
       <br>CSS

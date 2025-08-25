@@ -251,6 +251,10 @@
         <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Figma" />
       <br>Xd
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
   </tr>
     <!-- <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
@@ -269,10 +273,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySql" />
       <br>My SQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
     </td>
   </tr>
 </table>

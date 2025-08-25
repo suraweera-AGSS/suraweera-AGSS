@@ -251,8 +251,9 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Git" />
       <br>Android Studio
-    </td>  
-    <tr>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" />
       <br>Illustrator
@@ -269,7 +270,6 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-  </tr>
   </tr>
 </table>
 

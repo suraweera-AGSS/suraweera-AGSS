@@ -161,12 +161,12 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td
-    <td align="center" width="96">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="48" height="48" alt="CSS" />
       <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
@@ -179,6 +179,24 @@
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" height="48" alt="python" />
       <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="48" height="48" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Spring Boot" />
+      <br>Php
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
     </td>
   </tr>
   <tr>
@@ -241,14 +259,6 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Spring Boot" />
-      <br>Php
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -263,14 +273,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="Node.js" />
-      <br>Node.js
     </td>
   </tr>
 </table>

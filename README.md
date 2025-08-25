@@ -270,10 +270,6 @@
       <br>Postman
     </td>
   </tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
   </tr>
 </table>
 

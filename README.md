@@ -22,7 +22,7 @@
 
 - ⚡ Current status - https://www.zapfolio.in/sithum-chalk
 
-- 😁 Chill thing - Music is a big part of my life. I love both singing and listening to it 
+- 😁 Chill thing - Music is a big part of my life. I love both singing and listening to music 
 
 - 🎧 Listen to my covers - https://www.youtube.com/@ThripleSMusic
 <!--

@@ -152,95 +152,6 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
----
-
-## 🛠️ Tech Stack & Tools
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ☁️ **Cloud Platforms**
-<img src="https://camo.githubusercontent.com/dd08c9e9961c2a14497b32e94770512af9b4375ccf32117b452acaf94436243a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" alt="AWS" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-
-</td>
-<td width="33%" align="center">
-
-### 🐳 **Containers & Orchestration**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
-
-</td>
-<td width="33%" align="center">
-
-### 🏗️ **Infrastructure as Code**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="CloudFormation" width="50" height="50"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 📊 **Monitoring & Observability**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datadog.svg" alt="Datadog" width="50" height="50"/>
-
-</td>
-<td align="center">
-
-### 🗄️ **Databases & Storage**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
-
-</td>
-<td align="center">
-
-### 🌐 **Programming Languages**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🔧 **Development Tools**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" width="50" height="50"/>
-
-</td>
-<td align="center">
-
-### 🔒 **Security & CI/CD**
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/helm.svg" alt="Helm" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="Nginx" width="50" height="50"/>
-
-</td>
-<td align="center">
-
-### 📱 **Additional Tools**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" alt="Slack" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="Jira" width="50" height="50"/>
-</td>
-</tr>
-</table>
-
----
 > Tools and Technologies
 
 <table>
@@ -385,6 +296,88 @@
     </td>
   </tr>
 </table>
+---
+
+## 🛠️ Mastered Tech Stack & Tools as DevOps Engineer 
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ☁️ **Cloud Platforms**
+<img src="https://camo.githubusercontent.com/dd08c9e9961c2a14497b32e94770512af9b4375ccf32117b452acaf94436243a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667" alt="AWS" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+
+</td>
+<td width="33%" align="center">
+
+### 🐳 **Containers & Orchestration**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+
+</td>
+<td width="33%" align="center">
+
+### 🏗️ **Infrastructure as Code**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="CloudFormation" width="50" height="50"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 📊 **Monitoring & Observability**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datadog.svg" alt="Datadog" width="50" height="50"/>
+
+</td>
+<td align="center">
+
+### 🗄️ **Databases & Storage**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+
+</td>
+<td align="center">
+
+### 🌐 **Programming Languages**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🔧 **Development Tools**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" width="50" height="50"/>
+
+</td>
+<td align="center">
+
+### 🔒 **Security & CI/CD**
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/helm.svg" alt="Helm" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="Nginx" width="50" height="50"/>
+
+</td>
+<td align="center">
+</tr>
+</table>
+
+---
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="30px"> Connect Me Via
 

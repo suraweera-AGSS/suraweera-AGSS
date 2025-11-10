@@ -296,7 +296,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 🛠️ Mastered Tech Stack & Tools as DevOps Engineer 
 
@@ -315,7 +314,6 @@
 ### 🐳 **Containers & Orchestration**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
 
 </td>
 <td width="33%" align="center">
@@ -324,8 +322,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="CloudFormation" width="50" height="50"/>
+
 </td>
 </tr>
+
 <tr>
 <td align="center">
 
@@ -347,37 +347,52 @@
 </td>
 <td align="center">
 
-### 🌐 **Programming Languages**
+### 🌐 **Programming & Scripting Languages**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 
 </td>
 </tr>
+
 <tr>
 <td align="center">
 
-### 🔧 **Development Tools**
+### 🧰 **Development & Collaboration Tools**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="Jira" width="50" height="50"/>
 
 </td>
 <td align="center">
 
-### 🔒 **Security & CI/CD**
+### 🔒 **Security, CI/CD & Automation**
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jenkins.svg" alt="Jenkins" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/helm.svg" alt="Helm" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="Nginx" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" alt="SonarQube" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vault.svg" alt="HashiCorp Vault" width="50" height="50"/>
 
 </td>
 <td align="center">
+
+### ⚙️ **DevOps Culture & Practices**
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/agile.svg" alt="Agile" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrumalliance.svg" alt="Scrum" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="GitOps" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devto.svg" alt="DevSecOps" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/monitor.svg" alt="Continuous Monitoring" width="50" height="50"/>
+
+</td>
 </tr>
 </table>
 
----
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="30px"> Connect Me Via
 

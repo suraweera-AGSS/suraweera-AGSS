@@ -297,6 +297,7 @@
   </tr>
 </table>
 
+<!--
 ## 🛠️ Mastered Tech Stack & Tools as DevOps Engineer 
 
 <table>
@@ -392,7 +393,7 @@
 </td>
 </tr>
 </table>
-
+-->
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="50px" height="30px"> Connect Me Via
 

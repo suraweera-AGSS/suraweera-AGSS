@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></img> About Me
 
-- 🌱 I’m currently learning **Python | Java | ML | SpringBoot | Angular | React**
+- 🌱 I’m currently learning **Python | Java | ML | SpringBoot | Angular | React | React Native**
 
 - 📝 I regularly write articles on https://medium.com/@sithumsuraweera
 

@@ -408,7 +408,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2025 SIthum Suraweera
+  &copy; 2026 SIthum Suraweera
 </div>
 
   <!--

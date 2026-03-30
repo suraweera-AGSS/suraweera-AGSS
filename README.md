@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
-- 🎓 Academic Github Profile **https://github.com/SithumSuraweera**
+- 🎓 Academic Github Profile : **https://github.com/SithumSuraweera**
 
 - 👨‍💻 Co-Founder of **CodeScorpion - Tech Community : https://code-scorpions-official-website.vercel.app**
 

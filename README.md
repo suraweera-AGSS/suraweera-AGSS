@@ -18,7 +18,9 @@
 
 - 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
-- 👨‍💻 Co-Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
+- 🎓 Academic Github Profile **https://github.com/SithumSuraweera**
+
+- 👨‍💻 Co-Founder of **CodeScorpion - Tech Community : https://code-scorpions-official-website.vercel.app**
 
 - ⚡ Current status - https://www.zapfolio.in/sithum-chalk
 
